@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CacheTestTask.iml" filepath="$PROJECT_DIR$/.idea/modules/CacheTestTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CacheTestTask_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CacheTestTask_main.iml" group="CacheTestTask" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CacheTestTask_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CacheTestTask_test.iml" group="CacheTestTask" />
+    </modules>
+  </component>
+</project>
